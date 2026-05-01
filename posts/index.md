@@ -4,6 +4,10 @@ Newest posts first. New entries published daily at 9:00 AM local time.
 
 ## 2026
 
+### May
+
+- **2026-05-01** — [How to Take Cornell Notes That Actually Help You Study Later](./2026-05-01-cornell-notes-that-actually-help-you-study.md) — *Study & Learning*
+
 ### April
 
 - **2026-04-28** — [Pacing Strategy for Standardized Tests: How to Manage Time Without Rushing](./2026-04-28-pacing-strategy-for-standardized-tests.md) — *Exam Prep*
