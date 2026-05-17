@@ -6,6 +6,7 @@ Newest posts first. New entries published daily at 9:00 AM local time.
 
 ### May
 
+- **2026-05-17** — [How to Take Notes From a Textbook Chapter Without Copying It Word for Word](./2026-05-17-take-notes-from-a-textbook-chapter-without-copying-it.md) — *Study & Learning*
 - **2026-05-09** — [Spaced Repetition Schedules That Actually Stick: A Beginner's Guide](./2026-05-09-spaced-repetition-schedules-that-actually-stick.md) — *Study & Learning*
 - **2026-05-01** — [How to Take Cornell Notes That Actually Help You Study Later](./2026-05-01-cornell-notes-that-actually-help-you-study.md) — *Study & Learning*
 
